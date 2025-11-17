@@ -1,0 +1,18 @@
+/* =====================================================
+   UNIVERSAL RESPONSIVENESS — ONE MEDIA QUERY ONLY
+   ===================================================== */
+
+@media (max-width: 600px) {
+
+    /* General Layout Scaling */
+    body {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+   
