@@ -1,0 +1,26 @@
+
+
+/* TABLE STYLING */
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+student-table th {
+  text-align: left;
+  padding: 12px 10px;
+  background: #28a186;
+  border-bottom: 2px solid #ccc;
+  font-weight: bold;
+}
+
+.student-table td {
+  padding: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.student-table tr:hover {
+  background: #bff7c6;
+}
